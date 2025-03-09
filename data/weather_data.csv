@@ -1,0 +1,8 @@
+# data/weather_data.csv
+location,timestamp,temperature,humidity
+New York,2023-10-26 00:00:00,15,60
+London,2023-10-26 00:00:00,10,70
+New York,2023-10-26 01:00:00,16,62
+London,2023-10-26 01:00:00,11,72
+New York,2023-10-26 02:00:00,14,65
+London,2023-10-26 02:00:00,9,75
